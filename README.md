@@ -16,6 +16,8 @@ Zen64/
 └── src/
     ├── cad/
     │   └── MinimalKeeb v5.step
+    ├── firmware/
+    │   └── code.py
     ├── kicad/
     │   ├── Keyboard.kicad_pcb
     │   ├── Keyboard.kicad_prl
@@ -26,7 +28,8 @@ Zen64/
         ├── Case.stl
         ├── Keyboard_Plate.stl
         ├── Keyboard.zip
-        └──
+        └── Potentiometer_Cover.stl
+
 ```
 
 ### Schematics
